@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+pygame
+PyOpenGL
+PyOpenGL_accelerate
+numpy
+matplotlib
